@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Mohamed Ehab
 
 Welcome to my GitHub! I'm a Machine Learning, AI, and Data Science Engineer passionate about solving real-world problems with data and intelligent systems.
 

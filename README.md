@@ -11,6 +11,6 @@ Welcome to my GitHub! I'm a Machine Learning, AI, and Data Science Engineer pass
 - 🛠️ Tech Stack: Python, TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, OpenCV, SQL
 - ☁️ MLOps & Deployment: Docker, FastAPI, Streamlit, Flask, AWS, GCP
 - 📊 Love working on NLP, Computer Vision, and predictive modeling projects
-- 📚 Lifelong learner, currently exploring [Your Current Learning Focus, e.g., Generative AI, RL, etc.]
+- 📚 Lifelong learner, currently exploring Generative AI
 
 ---
